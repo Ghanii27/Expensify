@@ -1,13 +1,4 @@
-# Final Project - Expense Tracker App
-
-# Web Design and User Experience Engineering
-
-## Team Mates
-
-- Pratik Gawand
-- Sathwik Hegde
-- Ganesh Kumar Dharani
-- Shenckerr Gollapudi
+# Expense Tracker App
 
 # App URL
 
